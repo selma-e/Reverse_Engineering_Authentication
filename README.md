@@ -1,41 +1,20 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
+# Selma's HW14 Reverse Engineering Authentication
 
-Reverse engineer the starter code provided and create a tutorial for the code.
+## Description:
 
-In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
+In this activity, I am building a quiz which is initated with the click of a
 
-At the end of the tutorial, add instructions for how you could now add changes to this project.
+## Installation:
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
+- If you need to pull my code for this homework, please visit my Github repository at: https://github.com/selma-e/Reverse_Engineering_Authentication
+- If you want to see the google document tutorial, please visit here: https://docs.google.com/document/d/1WzRN3X8k47YuoFhK2izzDyWvkYyZSiytLDCCCs-u_-o/edit?usp=sharing
 
-```
-AS A developer
+## Usage:
 
-I WANT a walk-through of the codebase
+<img src="./Assets/screenshot1.png">
 
-SO THAT I can use it as a starting point for a new project
-```
+## Resources Used/Credits:
 
-## Business Context
+- https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
-
-## Acceptance Criteria
-
-```md
-GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
-```
-- - -
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* A link to a Google Doc or video explaining the application in `Develop/`. 
-
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020 Selma Elgabalawy | UW-SEA-FSF-PT-08-2020-U-C-TTh
