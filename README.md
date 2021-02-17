@@ -2,7 +2,7 @@
 
 ## Description:
 
-In this activity, I am building a quiz which is initated with the click of a
+In this activity, I am building a detailed user guide on how to traverse the code in the 'Develop' folder of this sample code.
 
 ## Installation:
 
@@ -15,6 +15,6 @@ In this activity, I am building a quiz which is initated with the click of a
 
 ## Resources Used/Credits:
 
-- https://getbootstrap.com/docs/4.5/getting-started/introduction/
+- https://www.google.com/docs/about/
 
 © 2020 Selma Elgabalawy | UW-SEA-FSF-PT-08-2020-U-C-TTh
